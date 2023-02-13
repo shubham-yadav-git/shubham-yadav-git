@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/shubham_yadav"><img src="https://github.com/shubham-yadav-git/shubham-yadav-git/devcard.svg" width="400" alt="Shubham Yadav's Dev Card"/></a>
+<a href="https://app.daily.dev/shubham_yadav"><img src="devcard.svg" width="400" alt="Shubham Yadav's Dev Card"/></a>
 - 👋 Hi, I’m @shubham-yadav-git 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning telethon
