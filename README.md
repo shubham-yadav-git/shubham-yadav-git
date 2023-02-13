@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning telethon
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me https://www.linkedin.com/in/shubham-yadav-b8568b170/
-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!---
 shubham-yadav-git/shubham-yadav-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
